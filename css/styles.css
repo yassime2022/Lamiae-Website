@@ -1,0 +1,61 @@
+﻿.image-container{
+background-color:black;
+}
+.birthdayGif-image{
+width:100%;
+height:30%;
+display:block;
+margin:auto;
+}
+.images-secondSet{
+text-align: center;
+background-color:black;
+}
+.twentyFifth-image{
+width:30%;
+}
+.mya-image{
+width:30%;
+}
+.gateauGif-image{
+width:30%;
+}
+.images-thirdSet{
+text-align: center;
+background-color:black;
+}
+.carousel-inner{
+
+text-align: center;
+}
+.carousel-item{
+background-color: #f08080;
+
+}
+h2{
+color:white;
+}
+p{
+color: white;
+
+}
+.videoMe{
+text-align:center;
+
+}
+.writing{
+color:black;
+text-align: right;
+padding: 10px;
+font-weight:bold;
+}
+.bodybiographie{
+background-color:#87cefa;
+}
+.bodyextra{
+background-color:#87cefa;
+}
+#footer{
+text-align:center;
+color:black;
+}
